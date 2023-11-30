@@ -1,2 +1,2 @@
-# lezcanotech-official-website
- My Personal Site Build
+# lezcanotechofficialsite
+ Personal Website
