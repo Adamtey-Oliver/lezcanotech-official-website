@@ -14,7 +14,7 @@ Welcome to the official personal website of Lezcano Tech! This site showcases my
 
 ## Technologies Used
 
-- **Frontend Framework**: React.js / Vue.js / Angular (depending on what you used)
+- **Frontend Framework**:  Angular and Typescript
 - **Styling**: Tailwind CSS / CSS3
 - **Deployment**: Netlify
 - **Version Control**: GitHub
